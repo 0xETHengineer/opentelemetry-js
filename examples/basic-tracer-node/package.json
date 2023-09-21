@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@opentelemetry/api": "^1.0.2",
-    "@opentelemetry/exporter-jaeger": "0.25.0",
+    "@opentelemetry/exporter-jaeger": "0.26.0",
     "@opentelemetry/resources": "0.25.0",
     "@opentelemetry/semantic-conventions": "0.25.0",
     "@opentelemetry/sdk-trace-base": "0.25.0"
